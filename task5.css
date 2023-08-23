@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hfirst{
+    font-family: "Tahoma";
+}
+.hsecond {
+    font-family: "Arial";
+}
+.psecond {
+    font-family: "Arial";
+    color: red;
+    font-style: italic;
+}
+.thirdh{
+    font-family: "Verdana";
+}
+.pthird{
+    font-family:"Verdana";
+    color :gray;
+
+}
+.third-1p{
+    line-height: 2;
+    font-family:"Verdana"; 
+    margin-top: 20px;
+}
+button{
+    color: white;
+    background-color: green;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+}
+.fourthh{
+    font-family: "Arial"; 
+    text-align: center;  
+}
+.fourthp1{
+    font-family: "Arial";
+    text-align: center;
+}
+.fourthp2{
+    font-family: "Arial";
+    color: blue;
+    text-align: center;
+}

@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.uber{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    display :block;
+    margin: 20px;
+}
+.Amazon{
+    background-color: rgb(255,216,20);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px;
+    width: 200px;;
+}
+.GitHub{
+    background-color: rgb(46,164,79);;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px;
+
+}
+.Bootstrap1{
+    background-color: rgb(121,82,179);;
+    color: white;
+    padding: 12px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin :20px;
+}
+.Bootstrap2{
+    background-color: white;
+    color: rgb(108,117,125);
+    border-color: rgb(108,117,125);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin :20px;
+    width: 99px;
+
+    
+
+}
+.LinkedIn1{
+    background-color: rgb(10,102,194);
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    margin-right: 20px
+  
+}
+.LinkedIn2{
+    background-color: white;
+    color: rgb(10,102,194);;
+    padding: 10px;
+    border-radius: 15px;
+    border-color: rgb(10,102,194);;
+    cursor: pointer;
+    width: 74px;
+}

@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.c1{
+    display: block;
+    margin: 10px;
+
+}
+.pclass{
+    vertical-align: middle;
+    display: inline-block;
+
+}
+.imgp{
+    text-align: center;
+}
+.Googleinput{
+    margin-left:375px;
+    width: 400px;
+}
